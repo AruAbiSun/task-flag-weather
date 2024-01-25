@@ -1,0 +1,1 @@
+This take I make one web page that shows on country name, flag, population, code, and weather condition using fetch api.
